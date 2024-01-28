@@ -5,6 +5,8 @@
 • Estudante na ONE (Oracle Next Education) juntamente com Alura.
 <hr>
 
+![Snake animation](https://github.com/chrisgoddev/chrisgoddev/blob/output/github-contribution-grid-snake.svg)
+
 ## Linguagens de Programação e Ferramentas 💻
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>
