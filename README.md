@@ -9,7 +9,7 @@
 
 <img src="https://github.com/cristhyangoes/cristhyangoes/assets/119747846/259eb18b-fb98-49db-ae91-5fcfdfcdbfad" width="90px">
 
-## Linguagens de Programação e Ferramentas 💻
+## Tecnologias e Ferramentas 💻
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>
