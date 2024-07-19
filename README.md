@@ -16,12 +16,15 @@
 
 ###
 
-<h3 align="left">Badges</h3>
+<h3 align="left">🎖️ Badges</h3>
 
 ###
 
 <div align="left">
   <img src="https://github.com/cristhyangoes/cristhyangoes/assets/119747846/259eb18b-fb98-49db-ae91-5fcfdfcdbfad" width="90px">
+  <img src="https://github.com/user-attachments/assets/2dca5b3e-7d27-454c-9615-32d492e95e31" width="90px">
+  <img src="https://github.com/user-attachments/assets/2ff3866d-b2a7-4356-a233-11d578bebd3b" width="90px">
+  <img src="https://github.com/user-attachments/assets/1ed6285f-e585-48be-bb33-e56de7917a1b" width="90px">
 </div>
 
 ###
